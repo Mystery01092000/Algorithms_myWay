@@ -1,0 +1,1 @@
+# About Divide And Conquer
