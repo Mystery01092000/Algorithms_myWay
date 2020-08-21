@@ -1,4 +1,5 @@
 # About Divide And Conquer
+![Img](https://res.cloudinary.com/practicaldev/image/fetch/s--0knuwIJs--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://cl.ly/5864a2a8d8ba/Image%25202019-03-31%2520at%25205.27.52%2520PM.png)
 Divide and Conquer is an algorithmic paradigm. It is a technique to solve a complex problem by dividing it into 3 parts:
 1. Divide : Divide the main problem into subproblems and keeps on dividing it.
 2. Conquer : Solve each of the sub-problem as it becomes very short
