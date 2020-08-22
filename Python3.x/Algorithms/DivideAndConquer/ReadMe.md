@@ -25,7 +25,7 @@ Divide and Conquer is an algorithmic paradigm. It is a technique to solve a comp
 Implemenatation of DAC: Finding MinMax in an array program : [link](https://github.com/Mystery01092000/Algorithms_myWay/blob/master/Python3.x/Algorithms/DivideAndConquer/MinAndMaxOfArrayDAC.py)
 ### Main Algorithms which use Divide and Conquer Approach for solving problems :
 
-1. Binary Sort
+1. Binary Search
 2. Quick Sort
 3. Merge Sort
 4. Closest pair of points
