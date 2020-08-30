@@ -1,0 +1,15 @@
+Algorithm:
+
+Given a list L of n elements with values or records L0, L1, …, Ln-1,
+bubble sort is applied to sort the list L.
+1. Compare first two elements L0, L1 in the list.
+2. if L1 < L0, swap those elements and continue with next 2
+elements.
+3. Repeat the same step until whole the list is sorted, so no more
+swaps are possible.
+4. Return the final sorted list.
+
+
+Complexity:
+
+ О(n^2), where n is the number of items being sorted. .
