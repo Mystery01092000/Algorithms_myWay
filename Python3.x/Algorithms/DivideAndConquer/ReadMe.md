@@ -28,6 +28,4 @@ Implemenatation of DAC: Finding MinMax in an array program : [link](https://gith
 1. Binary Search : [About](https://github.com/Mystery01092000/Algorithms_myWay/blob/master/Python3.x/Algorithms/DivideAndConquer/binary_search.md)     [Python program](https://github.com/Mystery01092000/Algorithms_myWay/blob/master/Python3.x/Algorithms/DivideAndConquer/BinarySearch.py)
 2. Quick Sort
 3. Merge Sort
-4. Closest pair of points
-5. Strassen's Algorithm for multiplication of two matrices
-6. Karatsuba Algorithm for fast multiplication
+4. Karatsuba Algorithm for fast multiplication
