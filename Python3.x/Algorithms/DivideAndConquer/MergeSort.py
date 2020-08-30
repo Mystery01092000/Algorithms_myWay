@@ -1,18 +1,14 @@
 def merge(arr, left, mid, right):
     n1 = mid - left + 1
     n2 = right - mid
-
-    # create two array left and right
     L = [0] * (n1)
     R = [0] * (n2)
 
-    # Copy the element of to array left and right i.e., L, R
     for i in range(0, n1):
         L[i] = arr[left + i]
 
     for j in range(0, n2):
         R[j] = arr[mid + 1 + j]
-
 
     i = 0
     j = 0
