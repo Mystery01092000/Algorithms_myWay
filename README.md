@@ -3,3 +3,4 @@ Algorithms is the most sophisticated topic around the world and now its time for
 
 
 1. Divide And Conquer Algorithms
+2. Sorting algorithms
